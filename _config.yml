@@ -1,0 +1,14 @@
+layout_spectrum: 0.39698270335793495
+typography_spectrum: 0.4265773599036038
+color:
+  brandStrength: 0.2511863950639963
+  lightness: 0.8012926436495036
+  saturation: 0.2338585564866662
+  rhythmicContrast: 0.6477622669190168
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Images
